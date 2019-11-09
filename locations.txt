@@ -1,6 +1,6 @@
 Yola,Nigeria
 Illinois, United States of America
-
+Adamawa,state,Nigeria
 Goa, India
 
 Tehran, Iran
